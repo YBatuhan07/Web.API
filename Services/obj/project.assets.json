@@ -997,7 +997,10 @@
         },
         "runtime": {
           "bin/placeholder/App.Repositories.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
